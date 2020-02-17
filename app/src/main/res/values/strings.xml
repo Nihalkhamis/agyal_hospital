@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">مستشفى اجيال</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_info">عن المستشفى</string>
+    <string name="menu_services">خدمات المستشفى</string>
+    <string name="menu_sections">الاقسام</string>
+    <string name="menu_director">مجلس الادارة</string>
+    <string name="menu_photos">معرض الصور</string>
+    <string name="menu_contact">اتصل بنا</string>
+    <string name="description1">تقع مستشفى اجيال فى مدينة دسوق محافظة كفر الشيخ مدينة دسوق عاصمة النيل الساحرة لها اطلالة لرائعة على النيل فرع رشيد وبها مسجد العارف بالله سيدى ابراهيم الدسوقى الموقع: تقع مستشفى أجيال على طريق دسوق قلين المتفرع من شارع الشركات عند مزلقان فوة وبجوار المدرسة القومية المبنى: مستشفى اجيال مبنى من خمسة ادوار متتالية مساحة الدور الكاملة 362م باجمالى مساحة 1600م  المستشفى لها مدخل خااص ويشمل صالة الاستقبال بمساحة 180م</string>
+    <string name="description2">وصف للمستشفي تفصليا: يوجد بكل دور قاعة انتظار فندقية 2 اسانسير ركاب ؛ مرضى سلم المستشفى مريح 120 سم مع درابزين s.s ورخام جبس أرضية المستشفى من البورسلين المطعم بالجرانيت جدران المستشفى من البورسلين مطعم بالجرانيت منعا لانتشار العدوى واعطاء طابع جمال. الوان المستشفى اختيرت حسب المواصفات لتعطى نوع من الاطمئنان وارتياح النفس المستشفى تقع فى مفترق الطرق ؛سهل الوصول اليها من طريق الشركات . طريق دسوق قلين يوجد مكان متسع لانتظار السيارات .  كافيتريا بها كافة المشتريات والاكلات السريعة نظام wifi يغطى المستشفى كلها . المستشفى تطبق سياسة منع التدخين بكافة ارجاء المستشفى تتبع المستشفى تعليمات الدفاع المدنى حيث بها شبكة كاملة من انذار الحريق جميع اجهزة مكافحة الحرائق على كافة انواعها . شبكة كاملة من حساسات الدخان .</string>
+    <string name="emergency24">طوارئ ٢٤ ساعة</string>
+    <string name="title">(دكتور جمال عبد الصادق)</string>
+    <string name="desc">استشاري امراض النساء والتوليد والخصوبة والعقم  بكالوريوس الطب - جامعة الاسكندرية</string>
+    <string name="body">ماجستير امراض النساء والتوليد والعقم - جامعة الاسكندرية مستشفي الشاطبي - بالاسكندرية عضو الجمعية المصرية للخصوبة</string>
+    <string name="contact">عنوان</string>
+</resources>
